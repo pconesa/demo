@@ -10,5 +10,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "emres": [ { "begin": 10, "value":2.234}, { "begin": 11, "value":2.234}]
 }
