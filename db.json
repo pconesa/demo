@@ -11,15 +11,43 @@
   "profile": {
     "name": "typicode"
   },
-  "emres": [
-    { "begin": 10, "value":2.234},
-    { "begin": 11, "value":3.234},
-    { "begin": 26, "value":4.234},
-    { "begin": 49, "value":5.234},
-    { "begin": 91, "value":4.234},
-    { "begin": 86, "value":3.234},
-    { "begin": 58, "value":2.234},
-    { "begin": 3, "value":1.234},
-    { "begin": 54, "value":2.234}
+  "emres":
+  [ 
+    {
+      "algorithm":"monores", 
+      "chain":"V", 
+      "minVal":1.234, 
+      "maxVal":5.234,
+      "algType":"localResolution",
+      "data":[
+        { "begin": 10, "value":2.234},
+        { "begin": 11, "value":3.234},
+        { "begin": 26, "value":4.234},
+        { "begin": 49, "value":5.234},
+        { "begin": 91, "value":4.234},
+        { "begin": 86, "value":3.234},
+        { "begin": 58, "value":2.234},
+        { "begin": 3, "value":1.234},
+        { "begin": 54, "value":2.234}
+      ]
+    },
+    {
+      "algorithm":"bfactor", 
+      "chain":"V", 
+      "minVal":0.234, 
+      "maxVal":6.234,
+      "algType":"bfactor",
+      "data":[
+        { "begin": 1, "value":2.234},
+        { "begin": 19, "value":3.234},
+        { "begin": 23, "value":4.234},
+        { "begin": 32, "value":6.234},
+        { "begin": 41, "value":4.234},
+        { "begin": 56, "value":3.234},
+        { "begin": 68, "value":2.234},
+        { "begin": 73, "value":0.234},
+        { "begin": 84, "value":2.234}
+      ]
+    }
   ]
 }
