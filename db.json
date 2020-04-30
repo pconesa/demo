@@ -11,5 +11,15 @@
   "profile": {
     "name": "typicode"
   },
-  "emres": [ { "begin": 10, "value":2.234}, { "begin": 11, "value":2.234}]
+  "emres": [
+    { "begin": 10, "value":2.234},
+    { "begin": 11, "value":3.234},
+    { "begin": 26, "value":4.234},
+    { "begin": 49, "value":5.234},
+    { "begin": 91, "value":4.234},
+    { "begin": 86, "value":3.234},
+    { "begin": 58, "value":2.234},
+    { "begin": 03, "value":1.234},
+    { "begin": 54, "value":2.234}
+  ]
 }
