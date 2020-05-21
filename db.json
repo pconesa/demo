@@ -13,6 +13,7 @@
   },
   "Q9P2E9":
     {"accession":"Q9P2E9",
+     "sequence":"MDY
      "features":[
        {"type":"VARIANT",
         "mutationType":"SNP",
