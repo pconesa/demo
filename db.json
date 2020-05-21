@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "variants": [
+  "Q9P2E9": [
     {"track_name":"Genomic_Variants_CNCB",
      "visualization_type":"variants",
      "reference":"https://bigd.big.ac.cn/ncov/variation/annotation",
