@@ -11,14 +11,11 @@
   "profile": {
     "name": "typicode"
   },
-  "Q9P2E9": [
-    {"track_name":"Genomic_Variants_CNCB",
-     "visualization_type":"variants",
-     "reference":"https://bigd.big.ac.cn/ncov/variation/annotation",
-     "fav_icon":"https://bigd.big.ac.cn:443/favicon.ico",
-     "acc":"P0DTD1",
-     "data":[
-       {"mutationType":"SNP",
+  "Q9P2E9":
+    {"accession":"Q9P2E9",
+     "features":[
+       {"type":"VARIANT",
+        "mutationType":"SNP",
         "mutationEffect":"start_lost",
         "begin":1,"end":1,
         "wildtype":"M",
@@ -29,7 +26,8 @@
         "originalGenomic":"A",
         "newGenomic":">T",
         "evidenceLevel":"III"},
-       {"mutationType":"SNP",
+       {"type":"VARIANT",
+        "mutationType":"SNP",
         "mutationEffect":"missense_variant",
         "begin":2,"end":2,
         "wildtype":"E",
@@ -40,7 +38,8 @@
         "originalGenomic":"A",
         "newGenomic":">G",
         "evidenceLevel":"III"},
-       {"mutationType":"SNP",
+       {"type":"VARIANT",
+        "mutationType":"SNP",
         "mutationEffect":"missense_variant",
         "begin":3,"end":3,
         "wildtype":"S",
@@ -51,7 +50,5 @@
         "originalGenomic":"C",
         "newGenomic":">A",
         "evidenceLevel":"III"}
-     ]
-    }
-  ]
+    ]}
 }
