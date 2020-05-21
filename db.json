@@ -17,6 +17,7 @@
      "features":[
        {"type":"VARIANT",
         "mutationType":"SNP",
+        "sourceType":"large_scale_study",
         "mutationEffect":"start_lost",
         "begin":1,"end":1,
         "wildType":"M",
@@ -29,6 +30,7 @@
         "evidenceLevel":"III"},
        {"type":"VARIANT",
         "mutationType":"SNP",
+        "sourceType":"large_scale_study",
         "mutationEffect":"missense_variant",
         "begin":2,"end":2,
         "wildType":"E",
@@ -40,6 +42,7 @@
         "newGenomic":">G",
         "evidenceLevel":"III"},
        {"type":"VARIANT",
+        "sourceType":"large_scale_study",
         "mutationType":"SNP",
         "mutationEffect":"missense_variant",
         "begin":3,"end":3,
