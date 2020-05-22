@@ -45,7 +45,7 @@
         "evidenceLevel":"III"},
        {"type":"VARIANT",
         "sourceType":"large_scale_study",
-        "alternativeSequence":"R",
+        "alternativeSequence":"*",
         "mutationType":"SNP",
         "mutationEffect":"missense_variant",
         "begin":3,"end":3,
